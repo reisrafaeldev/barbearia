@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "barbearia",
+    "slug": "barbearia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.barbearianative.apk"
+    }
+  },
+  "name": "barbearia"
+}
